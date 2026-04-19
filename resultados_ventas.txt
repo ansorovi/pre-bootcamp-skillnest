@@ -1,0 +1,40 @@
+ANÁLISIS DE VENTAS - SUPLEMENTOS 2025
+======================================
+
+LISTA DE VENTAS ORIGINAL:
+2025-01-15 | Proteína ISO  | 20 unidades | $40.000
+2025-02-10 | Proteína ISO  | 18 unidades | $40.000
+2025-05-20 | Proteína ISO  | 10 unidades | $40.000
+2025-01-08 | Creatina      | 25 unidades | $20.000
+2025-02-14 | Creatina      | 15 unidades | $20.000
+2025-06-03 | Creatina      | 10 unidades | $20.000
+2025-01-22 | Omega 3       |  5 unidades | $35.000
+2025-02-28 | Omega 3       |  5 unidades | $35.000
+2025-04-11 | Omega 3       |  8 unidades | $35.000
+2025-06-19 | Omega 3       | 10 unidades | $35.000
+
+INGRESOS TOTALES: $3.900.000
+
+PRODUCTO MÁS VENDIDO: Creatina - 50 unidades
+
+PRECIO PROMEDIO POR PRODUCTO:
+- Proteína ISO: $40.000
+- Creatina:     $20.000
+- Omega 3:      $35.000
+
+INGRESOS TOTALES POR DÍA:
+2025-01-15: $800.000
+2025-02-10: $720.000
+2025-05-20: $400.000
+2025-01-08: $500.000
+2025-02-14: $300.000
+2025-06-03: $200.000
+2025-01-22: $175.000
+2025-02-28: $175.000
+2025-04-11: $280.000
+2025-06-19: $350.000
+
+RESUMEN POR PRODUCTO:
+Proteína ISO  | 48 unidades | $1.920.000 | Promedio: $40.000
+Creatina      | 50 unidades | $1.000.000 | Promedio: $20.000
+Omega 3       | 28 unidades |   $980.000 | Promedio: $35.000
